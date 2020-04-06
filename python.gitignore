@@ -140,4 +140,4 @@ cython_debug/
 
 # Data
 /Data
-Data/*
+/Data/*
